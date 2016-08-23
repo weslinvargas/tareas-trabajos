@@ -1,0 +1,342 @@
+body
+
+{
+	margin: 0;
+	padding: 0;
+}
+
+ul
+{
+	
+	text-align: center;
+	word-spacing: 45px;
+}
+
+li
+{
+	text-decoration: none;
+	display: inline-block;
+
+}
+
+a
+{
+	text-decoration: none;
+	color: #000;
+}
+
+#banner
+{
+	width: 960px;
+	max-width: 960px;
+	height: 230px;
+	max-height: 230px;
+	background-image: url(../img/banner.jpg);
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-top: 50px;
+	color: #fff;
+}
+
+#primero
+{
+	background-color: #FF6B00;
+	color: #fff;
+	border: none;
+	letter-spacing: 2px;
+	width: 170px;
+	height: 50px;
+}
+#acerca
+{
+	text-align: center;
+	color: #6E6C6B;
+}
+#acercahr
+{
+	width: 60px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#botones
+{
+	width: 960px;
+	max-width: 960px;
+	height: 300px;
+	max-height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#btn1
+{
+	width: 420px;
+	max-width: 420px;
+	margin-left: 80px;
+	float: left;
+	
+
+	
+}
+
+#btn2
+{
+	width: 420px;
+	max-width: 420px;
+	float: left;
+	
+	
+}
+
+#img1
+{
+	max-width: 400px;
+	max-height: 300px;
+}
+#bt1
+{
+	background-color: #FF6B00;
+	border: none;
+	color: white;
+	height: 40px;
+	width: 140px;
+	letter-spacing: 3px;
+}
+#bt2
+{
+	background-color: #fff;
+	border: inset;
+	border-width: 1px;
+	border-color: #FF6B00;
+	color: #000;
+	height: 40px;
+	width: 140px;
+	letter-spacing: 3px;
+}
+.btnp
+{
+	font-size: 11px;
+	color: #6E6C6B;
+}
+
+#cara
+{
+	width: 960px;
+	max-width: 960px;
+	height: 500px;
+	max-height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #EDECEB;
+}
+
+#cara1
+{
+	width: 320px;
+	max-width: 320px;
+	float: left;
+}
+
+#cara2
+{
+	width: 320px;
+	max-width: 320px;
+	float: left;
+}
+#cara3
+{
+	width: 320px;
+	max-width: 320px;
+	float: left;
+}
+
+#carap
+{
+	
+	color: #6E6C6B;
+}
+#carap1
+{
+	
+	color: #6E6C6B;
+}
+
+#ipad
+{
+	width: 320px;
+	height: 370px;
+}
+
+#galeria
+{
+	width: 960px;
+	max-width: 960px;
+	height: 400px;
+	max-height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#gal1
+{
+	width: 215px;
+	float: left;
+	border-width: 0.5px;
+	border-color: #9C9997;
+	border:;
+}
+#gal2
+{
+	width: 25px;
+	float: left;
+}
+
+#gal3
+{
+	width: 215px;
+	float: left;
+	border-width: 0.5px;
+	border-color: #9C9997;
+	border:;
+}
+#gal4
+{
+	width: 25px;
+	float: left;
+}
+#gal5
+{
+	width: 215px;
+	float: left;
+	border-width: 0.5px;
+	border-color: #9C9997;
+	border:;
+}
+#gal6
+{
+	width: 25px;
+	float: left;
+}
+
+#gal7
+{
+	width: 215px;
+	float: left;
+	border-width: 0.5px;
+	border-color: #9C9997;
+	border:;
+}
+
+#imggal
+{
+	width: 200px;
+	height: 210px;
+	margin-left: 10px;
+}
+
+#imal
+{
+	width: 200px;
+	height: 218px;
+	margin-left: 10px;
+}
+
+
+#glh4
+{
+	color: #6E6C6B;
+}
+#ban2
+{
+	width: 960px;
+	max-width: 960px;
+	height: 200px;
+	max-height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(../img/ib.jpg);
+	
+}
+
+#contacto
+{
+	width: 960px;
+	max-width: 960px;
+	height: 800px;
+	max-height: 580px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #EDECEB;
+
+	
+}
+#formulario
+{
+	width: 480px;
+	float: left;
+	padding-left: 70px;
+	
+
+}
+#escri
+{
+	float: left;
+	color: #6E6C6B;
+	padding-left: 60px;
+}
+
+#pcon
+{
+	max-width: 350px;
+	float:left;
+	font-size: 13px;
+	color: #6E6C6B;
+}
+
+input
+{
+	height: 30px;
+	width: 180px;
+}
+textarea
+{
+	height: 80px;
+	width: 370px;
+}
+#envi
+{
+	height: 40px;
+	width: 377px;
+	color: #fff;
+	background-color: #FF6B00;
+	border : none;
+	text-align: center;
+
+}
+
+#mapa
+{
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: -40px;
+	height: 600px;
+}
+
+#po
+{
+	width: 25px;
+	height: 25px;
+}
+
+footer
+{
+	height: 50px;
+	width: 960px;
+	background-color: #FF6B00;
+	color: #fff;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
