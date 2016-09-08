@@ -1,0 +1,39 @@
+@font-face{
+	font-family: fuentem;
+	src:url(../font/Montserrat.ttf) format ('truetype');
+}
+html {
+	font-family: 'fuentem';
+}
+
+nav .brand-logo {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 2.8em;
+}
+
+.btn-large {
+	border-radius: 10px;
+	font-size: 1.2em;
+}
+
+.caption  h3 {
+	font-size: 50px;
+}
+
+.side-nav a, nav ul a{
+	font-size: 1.4em;
+}
+
+.ex {
+	margin-top: 250px;
+}
+
+.slides {
+	height: 600px !important;
+}
+.caption h5 {
+	font-size: 25px;
+	font-weight:  bold;
+	font-family: 
+}
